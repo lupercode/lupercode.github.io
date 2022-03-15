@@ -442,8 +442,8 @@
 	  	  </div>
 	    </div>
 	    <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2)">
-	    	© 2021 Copyright:
-	    	<a class="" href="https://luanpereira.com">LuanPereira.com</a>
+				© <span id="displayYear"></span> Copyright:
+					<a class="link-info" href="#about">Luan Pereira</a>
 	    </div>
 	</footer>
 
@@ -451,6 +451,10 @@
 		<script type="text/javascript" src="js/mdb.min.js"></script>
 		<script type="text/javascript" src="js/script.js"></script>
 		<script type="text/javascript" src="js/typeWriter.js"></script>
+		<script>
+			let year = new Date().getFullYear();
+			document.getElementById("displayYear").innerHTML = year;
+		</script>
 
 	</body>
 </html>
