@@ -345,9 +345,10 @@
 						<li class="list-group-item border-0"><a href="#!"><i class="fab fa-whatsapp-square"> Whatsapp</i></a></li>
 					</ul>
 				</div>
-				<div class="col-md-8 border-start">
-					
-					<form class="row w-lg-75 m-auto g-3" action="contact.php" method="post">
+				<div class="col-md-8 p-3">
+
+					<form class="row w-lg-75 m-auto g-3" action="https://formsubmit.co/495580f271787bd2914613267fb00628" method="post">
+						<h3>Para qualquer consulta...</h3>
 						<div class="col-md-12 form-floating">
 							<input class="form-control" id="floatingName" type="text" placeholder="Nome" name="name">
 							<label for="floatinName"><i class="fas fa-user"></i> Nome</label>
@@ -365,14 +366,18 @@
 							<label for="floatinArea"><i class="fa fa-pencil-alt"></i> Sua mensagem</label>
 						</div>
 						<div class="col-12">
-							<button class="btn btn-primary" type="submit">Enviar</button>
+							<input type="hidden" name="_next" value="https://luanmorris.github.io/thanks.html">
+							<input type="hidden" name="_captcha" value="false">
+							<input type="hidden" name="_template" value="table">
+							<button class="btn btn-light" type="submit">Enviar</button>
 						</div>
 					</form>
 
 				</div>
-			</div>
+
+			</div> <!-- row end -->
 			
-		</div> <!-- container -->
+		</div> <!-- container fluid end -->
 
 	</section>
 	  
