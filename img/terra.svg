@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="52.80481"
+   height="60"
+   viewBox="0 0 52.138503 60"
+   fill="none"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="terra.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     id="namedview10"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.7886435"
+     inkscape:cx="42.231474"
+     inkscape:cy="39.72398"
+     inkscape:window-width="1366"
+     inkscape:window-height="707"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <g
+     id="g7"
+     transform="matrix(0.85861477,0,0,0.85861477,-0.05485913,1.2879222e-6)"
+     style="stroke-width:1.16467;fill:#4d4d4d">
+    <path
+       fill-rule="evenodd"
+       clip-rule="evenodd"
+       d="m 20.811988,12.309999 19.1,11.03 v 22.06 l -19.1,-11.03 z m 21.19,11.03 v 22.06 l 19.11,-11.03 v -22.06 z M -0.3880125,-1.5e-6 V 22.059999 l 19.1000005,11.03 v -22.06 z m 21.2000005,58.8500005 19.1,11.029999 V 47.819999 l -19.1,-11.03 z"
+       fill="#7b42bc"
+       id="path6"
+       style="stroke-width:1.35645;fill:#4d4d4d" />
+  </g>
+</svg>
